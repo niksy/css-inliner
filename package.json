@@ -10,8 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "clean-css": "^2.1.8",
-    "dr-css-inliner": "git://github.com/niksy/dr-css-inliner.git",
     "js-beautify": "^1.4.2",
-    "postcss": "^0.3.4"
+    "postcss": "^0.3.4",
+    "dr-css-inliner": "^0.5.4"
   }
 }
